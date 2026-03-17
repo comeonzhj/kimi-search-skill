@@ -41,3 +41,6 @@ wheels/
 
 # Skill package
 *.zip
+
+# API docs (internal)
+kimi-search-api-docs.md
